@@ -112,8 +112,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# Additional
 # Alias
 alias ll='ls -la'
-
 # Command
 neofetch
